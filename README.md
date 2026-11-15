@@ -6,6 +6,8 @@ A RAG assistant over 48 pediatric vaccine documents (clinical trials, prescribin
 systematic reviews, WHO position papers). It answers like a senior immunization specialist,
 stays brand-neutral, and says when it is going beyond the documents.
 
+![The chat interface, with the active retrieval pipeline and knowledge-base size in the sidebar](docs/media/start.png)
+
 ## The problem I saw
 
 Teams that work with clinical evidence need to know what the literature says about a vaccine,
