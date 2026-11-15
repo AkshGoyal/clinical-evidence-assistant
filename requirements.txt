@@ -1,0 +1,19 @@
+# Pinned to the LangChain 0.3 line: the code uses legacy imports
+# (langchain.chains, langchain.memory, langchain.retrievers) removed in LangChain 1.0.
+# Tested with Python 3.11.
+streamlit==1.67.0
+openai==2.54.0
+langchain==0.3.30
+langchain-core==0.3.86
+langchain-openai==0.3.35
+langchain-community==0.3.31
+langchain-text-splitters==0.3.11
+pypdf==7.1.0
+faiss-cpu==1.16.0
+python-dotenv==1.2.4
+tiktoken==0.14.0
+pdfplumber==0.11.10
+pandas==3.1.1
+tabulate==0.10.0
+rank-bm25==0.2.2
+flashrank==0.2.10

@@ -1,0 +1,7 @@
+# Fixed light theme so the app looks the same whatever the OS light/dark setting.
+[theme]
+base = "light"
+primaryColor = "#0F6E8C"
+backgroundColor = "#F4F7FA"
+secondaryBackgroundColor = "#E8EEF4"
+textColor = "#1F2933"

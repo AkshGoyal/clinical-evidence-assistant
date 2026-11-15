@@ -1,0 +1,9 @@
+.env
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+# Source PDFs are third-party publications and the index is rebuilt from them.
+data/
+faiss_index/
+data_temp/

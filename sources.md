@@ -1,0 +1,52 @@
+# Evidence library
+
+The index was built from these 48 publicly available documents: clinical trial papers, prescribing information, systematic reviews and WHO position papers. They are not redistributed here. To rebuild, place your own PDFs in `data/` and run `python run_ingest.py`.
+
+- 63. Rotavirus Vaccine (Freeze Dried) Serum
+- 761328s000lbl
+- 80. MMR-Serum
+- Bergman_et_al-2021-Cochrane_Database_of_Systematic_Reviews
+- Burnett_impact_2020
+- Burnett_real world effectiveness of rotavirus vaccines
+- Dennehy Between Dose Efficacy HumanVaccinesMay2011
+- Do_Rotavirus_Strains_Affect_Vaccine_Effectiveness_.95669
+- Doc1
+- EID_GlobalBurdenRv
+- EuroRotaNet_report-2023_20250331_final_v1.0 (1)
+- HAVRIX
+- ImmunogenicityH2H
+- KHVI_20_2302685
+- LancetDistributionStrainSpecificEffectiveness
+- Lancet_ID_Velasquez_2022
+- NEJM1
+- Nejm2 (1)
+- Package+Insert+-+PREVNAR+20
+- PayneCID_2012_13
+- ROTARIX-PI-PIL
+- SOARES~1.PDF
+- SmPC of Pneumosil vaccine by Ms Serum Institute
+- SmPC of ROTAVAC 5D by Ms Bharat Biotech
+- TenDecadesofExperience
+- Velasquez1996
+- WhoPositionPaper_2013
+- arexvy_pi_au
+- auspar-capvaxive-250820-pi
+- cervarix
+- ciac699
+- e_enflonsia_enflonsia_pi
+- g_gardasil_9_gardasil_9_pi
+- immunogenicity_and_safety_of_two_tetravalent.18
+- jamapediatrics_bernstein_2021_ed_210005_1620409153.98683
+- jamapediatrics_sun_2021_oi_210012_1620409134.06256
+- jiac242
+- m_mmr_ii_mmr_ii_pi
+- p_proquad_proquad_pi
+- priorix-tetra
+- priorix
+- qHPV - SmPC 2022
+- r_rotateq_rotateq_pi
+- synflorix
+- v_vaqta_vaqta_pi
+- v_varivax_varivax_pi
+- v_vaxneuvance_vaxneuvance_pi
+- varilrix
